@@ -77,10 +77,10 @@ Os **Big Numbers** são cartões de destaque que exibem os KPIs mais importantes
 
 ```
   ┌────────────────────────┐    ┌────────────────────────┐
-  │    🎮 EA Play          │    │   ⛏️ Minecraft        │
+  │    🎮 EA Play         │     │   ⛏️ Minecraft        │
   │    Season Pass         │    │   Season Pass          │
   │                        │    │                        │
-  │   💰 $X.XXX.XXX        │    │   💰 $X.XXX.XXX       │
+  │   💰 $X.XXX.XXX       │    │    💰 $X.XXX.XXX       │
   │   Total Vendas         │    │   Total Vendas         │
   └────────────────────────┘    └────────────────────────┘
 ```
@@ -138,9 +138,9 @@ O dashboard conta com **segmentação de dados (Slicers)** conectados a todas as
 
 ```
 ┌───────────────────────────────────────────────────────────────┐
-│                    🎛️ PAINEL DE FILTROS                       │
+│                    🎛️ PAINEL DE FILTROS                      │
 ├──────────────────┬────────────────────┬───────────────────────┤
-│  🎮 EA Play      │  ⛏️ Minecraft       │  🔄 Auto Renewal      │
+│  🎮 EA Play      │  ⛏️ Minecraft     │  🔄 Auto Renewal     │
 │  [ ] Mensal      │  [ ] Mensal        │  [ ] Sim              │
 │  [ ] Anual       │  [ ] Anual         │  [ ] Não              │
 │  [ ] Trial       │  [ ] Trial         │                       │
@@ -192,18 +192,18 @@ flowchart TD
 ┌─────────────────────────────────────────────────────────────────────────┐
 │  🎮  DASHBOARD DE VENDAS XBOX                    📅 Período: Jan–Dez   │
 ├──────────────────────┬──────────────────────┬───────────────────────────┤
-│  🎮 EA Play          │  ⛏️ Minecraft         │  🎛️ FILTROS               │
+│  🎮 EA Play          │  ⛏️ Minecraft       │  🎛️ FILTROS               │
 │  Season Pass         │  Season Pass         │                           │
-│  💰 $X.XXX.XXX       │  💰 $X.XXX.XXX       │  🔄 Auto Renewal          │
-│                      │                      │  ☑ Sim   ☐ Não            │
+│  💰 $X.XXX.XXX       │  💰 $X.XXX.XXX      │  🔄 Auto Renewal         │
+│                      │                      │  ☑ Sim   ☐ Não           │
 ├──────────────────────┴──────────────────────┤                           │
-│          📊 Auto Renewal × Total Value       │  🎮 EA Play               │
-│                                             │  ☑ Mensal  ☐ Anual        │
+│          📊 Auto Renewal × Total Value     │  🎮 EA Play               │
+│                                             │  ☑ Mensal  ☐ Anual       │
 │  SIM  ████████████████████████████          │                           │
-│  NÃO  ██████████████                        │  ⛏️ Minecraft              │
-│                                             │  ☑ Mensal  ☐ Anual        │
+│  NÃO  ██████████████                        │  ⛏️ Minecraft            │
+│                                             │  ☑ Mensal  ☐ Anual       │
 ├─────────────────────────────────────────────┴───────────────────────────┤
-│  🔄 Última Atualização: XX/XX/XXXX                                      │
+│  🔄 Última Atualização: XX/XX/XXXX                                     │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
