@@ -186,7 +186,7 @@ flowchart TD
 
 ## 📸 Dashboard Final
 
-> 📌 Adicione aqui uma captura de tela do dashboard desenvolvido no Excel.
+> 📌 ![Dashboard](./imagens/Dashboard.png)
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
