@@ -77,10 +77,10 @@ Os **Big Numbers** são cartões de destaque que exibem os KPIs mais importantes
 
 ```
   ┌────────────────────────┐    ┌────────────────────────┐
-  │    🎮 EA Play          │    │   ⛏️ Minecraft          │
+  │    🎮 EA Play          │    │   ⛏️ Minecraft        │
   │    Season Pass         │    │   Season Pass          │
   │                        │    │                        │
-  │   💰 $X.XXX.XXX        │    │   💰 $X.XXX.XXX        │
+  │   💰 $X.XXX.XXX        │    │   💰 $X.XXX.XXX       │
   │   Total Vendas         │    │   Total Vendas         │
   └────────────────────────┘    └────────────────────────┘
 ```
