@@ -186,7 +186,7 @@ flowchart TD
 
 ## 📸 Dashboard Final
 
-> 📌 Dashboard.png
+> 📌 ![Dashboard](./imagens/Dashboard.png)
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
